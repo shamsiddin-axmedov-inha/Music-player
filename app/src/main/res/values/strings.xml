@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="world_of_music">World of music</string>
+    <string name="song_name">Song name</string>
+    <string name="back">back</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="start_tv">00:00</string>
+</resources>
